@@ -12,7 +12,7 @@ namespace API.Data.Migrations
                 {
                     Id = table.Column<int>(type: "INTEGER", nullable: false)
                         .Annotation("Sqlite:Autoincrement", true),
-                    Name = table.Column<int>(type: "INTEGER", nullable: false)
+                    Name = table.Column<int>(type: "String", nullable: false)
                 },
                 constraints: table =>
                 {

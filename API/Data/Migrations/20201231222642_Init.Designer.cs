@@ -24,7 +24,7 @@ namespace API.Data.Migrations
                         .HasColumnType("INTEGER");
 
                     b.Property<int>("Name")
-                        .HasColumnType("INTEGER");
+                        .HasColumnType("String");
 
                     b.HasKey("Id");
 
