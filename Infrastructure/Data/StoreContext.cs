@@ -1,7 +1,8 @@
-using API.Entities;
+
+using Core.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace API.Data
+namespace Infrastructure.Data
 {
     public class StoreContext : DbContext
     {
@@ -10,5 +11,6 @@ namespace API.Data
         }
 
         public DbSet<Product> Products { get; set; }
+        
     }
 }
