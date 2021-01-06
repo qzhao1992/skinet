@@ -1607,23 +1607,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/qingzhao/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "C:\\Users\\QingZhao\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/qingzhao/Documents/GitHub/skinet/API/API.csproj",
+      "projectUniqueName": "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "/Users/qingzhao/Documents/GitHub/skinet/API/API.csproj",
-      "packagesPath": "/Users/qingzhao/.nuget/packages/",
-      "outputPath": "/Users/qingzhao/Documents/GitHub/skinet/API/obj/",
+      "projectPath": "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\API\\API.csproj",
+      "packagesPath": "C:\\Users\\QingZhao\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\API\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/Users/qingzhao/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\QingZhao\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -1635,8 +1631,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/qingzhao/Documents/GitHub/skinet/Infrastructure/Infrastructure.csproj": {
-              "projectPath": "/Users/qingzhao/Documents/GitHub/skinet/Infrastructure/Infrastructure.csproj"
+            "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
@@ -1692,7 +1688,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
