@@ -52,10 +52,7 @@ namespace API
             app.UseStaticFiles();
 
             app.UseAuthorization();
-            app.UseSwaggerDocumentation();
-
-         
-
+            app.UseSwaggerDocumentation(); 
             app.UseEndpoints(endpoints =>
             {
                 endpoints.MapControllers();

@@ -39,3 +39,4 @@ msbuild.wrn
 
 # Visual Studio 2015
 .vs/
+API/obj/Debug/net5.0/*
