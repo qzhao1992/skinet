@@ -71,6 +71,8 @@ C:\Users\QingZhao\Documents\GitHub\skinet\API\bin\Debug\net5.0\API.runtimeconfig
 C:\Users\QingZhao\Documents\GitHub\skinet\API\bin\Debug\net5.0\API.dll
 C:\Users\QingZhao\Documents\GitHub\skinet\API\bin\Debug\net5.0\ref\API.dll
 C:\Users\QingZhao\Documents\GitHub\skinet\API\bin\Debug\net5.0\API.pdb
+C:\Users\QingZhao\Documents\GitHub\skinet\API\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\QingZhao\Documents\GitHub\skinet\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\QingZhao\Documents\GitHub\skinet\API\bin\Debug\net5.0\Humanizer.dll
 C:\Users\QingZhao\Documents\GitHub\skinet\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\QingZhao\Documents\GitHub\skinet\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
@@ -130,5 +132,3 @@ C:\Users\QingZhao\Documents\GitHub\skinet\API\obj\Debug\net5.0\API.dll
 C:\Users\QingZhao\Documents\GitHub\skinet\API\obj\Debug\net5.0\ref\API.dll
 C:\Users\QingZhao\Documents\GitHub\skinet\API\obj\Debug\net5.0\API.pdb
 C:\Users\QingZhao\Documents\GitHub\skinet\API\obj\Debug\net5.0\API.genruntimeconfig.cache
-C:\Users\QingZhao\Documents\GitHub\skinet\API\bin\Debug\net5.0\AutoMapper.dll
-C:\Users\QingZhao\Documents\GitHub\skinet\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
