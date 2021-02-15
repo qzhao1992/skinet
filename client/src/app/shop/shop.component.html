@@ -28,9 +28,9 @@
                 <div class="d-flex justify-content-between align-items-center pb-2">
                     <app-paging-header [totalCount] = "totalCount" [pageSize] = "this.shopParams.pageSize" [pageNumber] = "this.shopParams.pageNumber"></app-paging-header>
                     <div class="form-inline mt-2 row">
-                        <input class="form-control mr-2d col" style="width:300px;" placeholder="Search" type="text">
-                        <button class="btn btn-outline-primary  col">Search</button>
-                        <button class="btn btn-outline-success  col">Reset</button>
+                        <input class="form-control mr-2d col" style="width:300px;" placeholder="Search" type="text" #search (keyup.enter)="onSearch()">
+                        <button class="btn btn-outline-primary  col" (click)="onSearch()">Search</button>
+                        <button class="btn btn-outline-success  col" (click)="onReset()">Reset</button>
                     </div>
                 </div>
                 
