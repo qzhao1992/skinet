@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\API\\API.csproj": {}
+    "c:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\API\\API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\API\\API.csproj": {
+    "c:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\API\\API.csproj",
+        "projectUniqueName": "c:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\API\\API.csproj",
+        "projectPath": "c:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\API\\API.csproj",
         "packagesPath": "C:\\Users\\QingZhao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\API\\obj\\",
+        "outputPath": "c:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\QingZhao\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Infrastructure\\Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Infrastructure\\Infrastructure.csproj"
+              "c:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "c:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Infrastructure\\Infrastructure.csproj"
               }
             }
           }
@@ -91,14 +91,14 @@
         }
       }
     },
-    "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Core\\Core.csproj": {
+    "c:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Core\\Core.csproj",
+        "projectUniqueName": "c:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Core\\Core.csproj",
+        "projectPath": "c:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\QingZhao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Core\\obj\\",
+        "outputPath": "c:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\QingZhao\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -143,14 +143,14 @@
         }
       }
     },
-    "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Infrastructure\\Infrastructure.csproj": {
+    "c:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Infrastructure\\Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectUniqueName": "c:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Infrastructure\\Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Infrastructure\\Infrastructure.csproj",
+        "projectPath": "c:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Infrastructure\\Infrastructure.csproj",
         "packagesPath": "C:\\Users\\QingZhao\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Infrastructure\\obj\\",
+        "outputPath": "c:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\QingZhao\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -165,8 +165,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Core\\Core.csproj"
+              "c:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Core\\Core.csproj": {
+                "projectPath": "c:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Core\\Core.csproj"
               }
             }
           }
@@ -192,6 +192,10 @@
             "Microsoft.EntityFrameworkCore.Sqlite": {
               "target": "Package",
               "version": "[5.0.1, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.2.11, )"
             }
           },
           "imports": [
