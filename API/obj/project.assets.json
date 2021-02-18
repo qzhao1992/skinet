@@ -2419,11 +2419,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\API\\API.csproj",
+      "projectUniqueName": "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\API\\API.csproj",
+      "projectPath": "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\API\\API.csproj",
       "packagesPath": "C:\\Users\\QingZhao\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\API\\obj\\",
+      "outputPath": "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\QingZhao\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2438,8 +2438,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "c:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "c:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

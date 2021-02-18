@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ixitm/Vj4QOlyWEg6molJN/l3ScQ/kl2KV6tZCcQPVxksEjfqClJyvyk5N0K2XmOgFOfJulQTK7doNtnZC432w==",
+  "dgSpecHash": "8ds9vU9O4LkiFBYo1pQx+0poyAQlA8rJSI282lYEptpDXNbQBReMoPFCOJm20CNRV+6wICAe4zZSx5nf4JjtKg==",
   "success": true,
-  "projectFilePath": "c:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\API\\API.csproj",
+  "projectFilePath": "C:\\Users\\QingZhao\\Documents\\GitHub\\skinet\\API\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\QingZhao\\.nuget\\packages\\automapper\\10.1.0\\automapper.10.1.0.nupkg.sha512",
     "C:\\Users\\QingZhao\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\8.1.0\\automapper.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
