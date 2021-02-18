@@ -104,3 +104,8 @@ API/obj/Debug/net5.0/project.razor.json
 API/obj/Debug/net5.0/project.razor.json
 API/obj/Debug/net5.0/project.razor.json
 API/bin/Debug/net5.0/API.dll
+*.dll
+*.dll
+*.dll
+API/bin/Debug/net5.0/API.dll
+*.pdb
