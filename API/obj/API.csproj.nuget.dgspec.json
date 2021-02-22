@@ -1,20 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "/Users/AgentQ/Documents/GitHub/skinet/API/API.csproj": {}
+    "/Users/qingzhao/Documents/GitHub/skinet/API/API.csproj": {}
   },
   "projects": {
-    "/Users/AgentQ/Documents/GitHub/skinet/API/API.csproj": {
+    "/Users/qingzhao/Documents/GitHub/skinet/API/API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/AgentQ/Documents/GitHub/skinet/API/API.csproj",
+        "projectUniqueName": "/Users/qingzhao/Documents/GitHub/skinet/API/API.csproj",
         "projectName": "API",
-        "projectPath": "/Users/AgentQ/Documents/GitHub/skinet/API/API.csproj",
-        "packagesPath": "/Users/AgentQ/.nuget/packages/",
-        "outputPath": "/Users/AgentQ/Documents/GitHub/skinet/API/obj/",
+        "projectPath": "/Users/qingzhao/Documents/GitHub/skinet/API/API.csproj",
+        "packagesPath": "/Users/qingzhao/.nuget/packages/",
+        "outputPath": "/Users/qingzhao/Documents/GitHub/skinet/API/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/AgentQ/.nuget/NuGet/NuGet.Config"
+          "/Users/qingzhao/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -26,8 +29,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/AgentQ/Documents/GitHub/skinet/Infrastructure/Infrastructure.csproj": {
-                "projectPath": "/Users/AgentQ/Documents/GitHub/skinet/Infrastructure/Infrastructure.csproj"
+              "/Users/qingzhao/Documents/GitHub/skinet/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/qingzhao/Documents/GitHub/skinet/Infrastructure/Infrastructure.csproj"
               }
             }
           }
@@ -87,21 +90,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/AgentQ/Documents/GitHub/skinet/Core/Core.csproj": {
+    "/Users/qingzhao/Documents/GitHub/skinet/Core/Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/AgentQ/Documents/GitHub/skinet/Core/Core.csproj",
+        "projectUniqueName": "/Users/qingzhao/Documents/GitHub/skinet/Core/Core.csproj",
         "projectName": "Core",
-        "projectPath": "/Users/AgentQ/Documents/GitHub/skinet/Core/Core.csproj",
-        "packagesPath": "/Users/AgentQ/.nuget/packages/",
-        "outputPath": "/Users/AgentQ/Documents/GitHub/skinet/Core/obj/",
+        "projectPath": "/Users/qingzhao/Documents/GitHub/skinet/Core/Core.csproj",
+        "packagesPath": "/Users/qingzhao/.nuget/packages/",
+        "outputPath": "/Users/qingzhao/Documents/GitHub/skinet/Core/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/AgentQ/.nuget/NuGet/NuGet.Config"
+          "/Users/qingzhao/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -139,21 +145,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/AgentQ/Documents/GitHub/skinet/Infrastructure/Infrastructure.csproj": {
+    "/Users/qingzhao/Documents/GitHub/skinet/Infrastructure/Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/AgentQ/Documents/GitHub/skinet/Infrastructure/Infrastructure.csproj",
+        "projectUniqueName": "/Users/qingzhao/Documents/GitHub/skinet/Infrastructure/Infrastructure.csproj",
         "projectName": "Infrastructure",
-        "projectPath": "/Users/AgentQ/Documents/GitHub/skinet/Infrastructure/Infrastructure.csproj",
-        "packagesPath": "/Users/AgentQ/.nuget/packages/",
-        "outputPath": "/Users/AgentQ/Documents/GitHub/skinet/Infrastructure/obj/",
+        "projectPath": "/Users/qingzhao/Documents/GitHub/skinet/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/Users/qingzhao/.nuget/packages/",
+        "outputPath": "/Users/qingzhao/Documents/GitHub/skinet/Infrastructure/obj/",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/AgentQ/.nuget/NuGet/NuGet.Config"
+          "/Users/qingzhao/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -165,8 +174,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/AgentQ/Documents/GitHub/skinet/Core/Core.csproj": {
-                "projectPath": "/Users/AgentQ/Documents/GitHub/skinet/Core/Core.csproj"
+              "/Users/qingzhao/Documents/GitHub/skinet/Core/Core.csproj": {
+                "projectPath": "/Users/qingzhao/Documents/GitHub/skinet/Core/Core.csproj"
               }
             }
           }
@@ -213,7 +222,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.102/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.101/RuntimeIdentifierGraph.json"
         }
       }
     }

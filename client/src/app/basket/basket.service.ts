@@ -23,6 +23,7 @@ export class BasketService {
       .pipe(
         map((basket: IBasket) => {
           this.basketSource.next(basket);
+          console.log(this.getCurrentBasketValue());
         })
     );
   }
@@ -48,7 +49,7 @@ export class BasketService {
 
   private addOrUpdateItem(items: IBasketItem[], itemToAdd: IBasketItem, quantity: number): IBasketItem[] {
     const index = items.findIndex(i => i.id === itemToAdd.id);
-    if( index === -1){
+    if ( index === -1){
       itemToAdd.quantity = quantity;
       items.push(itemToAdd);
     } else {
