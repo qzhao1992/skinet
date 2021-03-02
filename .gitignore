@@ -8,6 +8,7 @@ obj
 bin
 appsettings.json
 *.db
+*rdb
 
 # Visual Studio Code
 .vscode
